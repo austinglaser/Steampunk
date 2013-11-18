@@ -20,3 +20,5 @@ New settlements were founded over the next 20 years, the largest being Port Glor
 - Storm Point
 - Port Vincent
 - Point Reach (farthest successful southern expedition)
+
+![map](map.png)
