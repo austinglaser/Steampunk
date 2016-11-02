@@ -25,9 +25,8 @@ Anyone who's anyone around the docks is "friends" with Sebastion Fontaine. The m
 
 The city is made of of two halves, devided by a great river known as "The Chasm". The western half is newer and far more liberal than the "old city" on the east bank. The west tends to be richer due to newer and cleaner industries. Is is smaller, barely half the size of the eastern piece.
 
-The city ends up looking a lot like instanbul:
 
-![the city](http://maps.google.com/maps/api/staticmap?center=41.009180,29.012489&zoom=12&markers=size:small|41.011770,29.014549&size=850x400&language=jp&sensor=false)
+![](https://maps.googleapis.com/maps/api/staticmap?center=41.013687,%2029.002530&zoom=12&size=888x450&maptype=terrain&key=AIzaSyCD20Kn4k0HTU9uAH43cbBmm0aLWAFl4GA&scale=2&style=feature:all|visibility:off&style=feature:landscape|visibility:on&style=feature:water|visibility:on&style=feature:road|element:geometry|visibility:simplified&style=feature:road.arterial|weight:1&style=feature:road.highway|weight:1)
 
 #### The Eastern Docks ("Eedy")
 
@@ -37,7 +36,7 @@ The eastern docks are also home to thriving smuggling trade, and (with the right
 
 #### The Western Docks ("The Westies")
 
-Newly built steamcranes tower over the wide berths of the west side of the scar. High tech steamworks constantly load and unload construction goods from the stream of ships southern trade ships.
+Newly built steamcranes tower over the wide berths of the west side of the chasm. High tech steamworks constantly load and unload construction goods from the stream of ships southern trade ships.
 
 #### The Ring
 

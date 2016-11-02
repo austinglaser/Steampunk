@@ -1,16 +1,30 @@
-# Act 1: An Artist's Antique
+# Steampunk
+
+## Story
+
+### [Act I: An Artist's Antique](act1.md)
+
+6 days before the vault.
 
 Sebastiane Fontaine wins a most unusual box in a game of cards. Its previous caretaker, a local underworld figure named Landers, is obviously agitated and leaves quickly. Hours later, at Fontaine's bar The Dockside Doxie, a small group of assassins tries to steal the box and kill Seb.
 
 Seb's crew stop the rice row gang members and recover the box. Seb suspects that the box has secrets, and tasks his crew to figure out more.
 
-… more later
+… [more](act1.md)
 
-# Act 2: A Forest of Secrets
+### [Act II](act2.md)
+
+3 days after the vault.
+
+The city trembles. After The Artist's crime spree, especially the burning of The Crown's secret submarine base, the magistrate has locked the city down. Watch patrols are bolstered by the militia, and all ships coming into the ports are being impounded. An improbable group of allies find each other in their common goal of getting away from their past.
+
+... [more](act2.md)
+
+### [Act III: A Forest of Secrets](act3.md)
 
 21 years after the vault.
 
-# Interlude: Distant Waves
+### Interlude: Distant Waves
 
 29 years after the vault.
 
@@ -32,4 +46,4 @@ The storm breaks deep into the night. Confused and tired passengers make their w
 
 Dawn should have been 3 hours ago.
 
-# Act 3: Sundered Ascension
+### Act IV: Sundered Ascension
